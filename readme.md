@@ -1,3 +1,10 @@
+Update 13/02/2019:
+
+Possible solution found, appears to be working so far. Refer to testmultistore-solution.bas. 
+
+
+Original issue with code in testmultistore4.bas:
+
 Purpose of tests: see what happens when multiple calls are made to the same function in the SC quickly. Is data stored as expected?
 
 
